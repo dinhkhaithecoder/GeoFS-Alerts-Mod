@@ -317,7 +317,7 @@
             return;
         }
 
-        // stall and stickshake alert
+        // stall alert
         !isOnGround() && isStalling() ? stickShake.play() : stickShake.stop();
 
         const fastPlanes = ["F-16 Fighting Falcon", "Concorde", "Sukhoi Su-35", "Boeing F/A-18F Super Hornet", "Wingsuit"];
