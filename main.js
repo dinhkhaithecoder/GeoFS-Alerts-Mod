@@ -9,7 +9,7 @@
 // @grant        GM.getResourceUrl
 // @resource     stall https://github.com/avramovic/geofs-alerts/raw/master/audio/airbus-stall-warning.mp3
 // @resource     bankangle https://github.com/avramovic/geofs-alerts/raw/master/audio/bank-angle-bank-angle.mp3
-// @resource     overspeed https://github.com/dinhkhaithecoder/GeoFS-Alerts-Mod/blob/master/audio/overspeed.mp3
+// @resource     overspeed https://github.com/dinhkhaithecoder/GeoFS-Alerts-Mod/raw/master/audio/overspeed.mp3
 // @resource     autopilot https://github.com/avramovic/geofs-alerts/raw/master/audio/airbus-autopilot-off.mp3
 // @resource     terrain https://github.com/avramovic/geofs-alerts/raw/master/audio/terrain-terrain-pull-up.mp3
 // @resource     lowgear https://github.com/avramovic/geofs-alerts/raw/master/audio/too-low-gear.mp3
