@@ -3,7 +3,7 @@
 // @namespace    https://avramovic.info/
 // @version      1.0.7
 // @description  GPWS and other alerts for GeoFS
-// @author       Nemanja Avramovic
+// @author       Nemanja Avramovic (Win8ChanBoy for modded sound)
 // @match        https://www.geo-fs.com/geofs.php*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=geo-fs.com
 // @grant        GM.getResourceUrl
