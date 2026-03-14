@@ -8,7 +8,6 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=geo-fs.com
 // @grant        GM.getResourceUrl
 // @resource     stall https://github.com/avramovic/geofs-alerts/raw/master/audio/airbus-stall-warning.mp3
-// @resource     stickshaker https://github.com/dinhkhaithecoder/GeoFS-Alerts-Mod/raw/master/audio/boeing-stick-shaker.mp3
 // @resource     bankangle https://github.com/avramovic/geofs-alerts/raw/master/audio/bank-angle-bank-angle.mp3
 // @resource     overspeed https://github.com/dinhkhaithecoder/GeoFS-Alerts-Mod/raw/master/audio/overspeed.mp3
 // @resource     autopilot https://github.com/avramovic/geofs-alerts/raw/master/audio/airbus-autopilot-off.mp3
@@ -42,12 +41,6 @@
         stickShake = new Audio('data:audio/mp3;'+data);
         stickShake.loop = true;
     });
-
-    let stickShake;
-    GM.getResourceUrl("stickshaker").then((data) => {
-        stickShake = new Audio('data:audio/mp3;'+data);
-        stickShake.loop = true;
-    });    
 
     let bankangle;
     GM.getResourceUrl("bankangle").then((data) => {
