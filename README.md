@@ -24,4 +24,4 @@ issue here on Github and i'll try to fix it.
 - [Tampermonkey](https://www.tampermonkey.net/)
 
 ## Installation
-[Install GeoFS-alerts](https://github.com/avramovic/geofs-alerts/raw/master/GeoFS-GPWS-Alerts.user.js)
+[Install GeoFS-alerts](https://github.com/dinhkhaithecoder/GeoFS-Alerts-Mod/raw/master/main.js)
