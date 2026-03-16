@@ -7,7 +7,7 @@
 // @match        https://www.geo-fs.com/geofs.php*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=geo-fs.com
 // @grant        GM.getResourceUrl
-// @resource     stall https://github.com/avramovic/geofs-alerts/raw/master/audio/airbus-stall-warning.mp3
+// @resource     stall https://github.com/dinhkhaithecoder/GeoFS-Alerts-Mod/raw/master/audio/airbus-stall-warning.mp3
 // @resource     bankangle https://github.com/avramovic/geofs-alerts/raw/master/audio/bank-angle-bank-angle.mp3
 // @resource     overspeed https://github.com/dinhkhaithecoder/GeoFS-Alerts-Mod/raw/master/audio/overspeed.mp3
 // @resource     autopilot https://github.com/avramovic/geofs-alerts/raw/master/audio/airbus-autopilot-off.mp3
